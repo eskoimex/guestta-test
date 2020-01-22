@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/guestta-test/static/css/main.d1b05096.chunk.css",
+    "main.js": "/guestta-test/static/js/main.f11e3fb7.chunk.js",
+    "main.js.map": "/guestta-test/static/js/main.f11e3fb7.chunk.js.map",
+    "runtime-main.js": "/guestta-test/static/js/runtime-main.3a5f18d8.js",
+    "runtime-main.js.map": "/guestta-test/static/js/runtime-main.3a5f18d8.js.map",
+    "static/js/2.bc365f0a.chunk.js": "/guestta-test/static/js/2.bc365f0a.chunk.js",
+    "static/js/2.bc365f0a.chunk.js.map": "/guestta-test/static/js/2.bc365f0a.chunk.js.map",
+    "index.html": "/guestta-test/index.html",
+    "precache-manifest.654d8823dbbec5df31b8b9831d624d0c.js": "/guestta-test/precache-manifest.654d8823dbbec5df31b8b9831d624d0c.js",
+    "service-worker.js": "/guestta-test/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/guestta-test/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.bc365f0a.chunk.js.LICENSE": "/guestta-test/static/js/2.bc365f0a.chunk.js.LICENSE",
+    "static/media/logo.svg": "/guestta-test/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a5f18d8.js",
+    "static/js/2.bc365f0a.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.f11e3fb7.chunk.js"
+  ]
+}
